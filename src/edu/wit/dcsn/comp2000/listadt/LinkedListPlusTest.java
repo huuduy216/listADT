@@ -143,7 +143,7 @@ class LinkedListPlusTest
 	@DisplayName( "Instantiate List" )
 	void testInstantiateList()
 		{
-		ListInterface<Object> testList ;
+		ListInterface<Integer> testList ;
 		
 		/* ----- */
 		
